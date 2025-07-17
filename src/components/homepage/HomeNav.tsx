@@ -44,7 +44,7 @@ const HomeNav: React.FC = () => {
             <div className="text-2xl font-bold text-primary mr-2">
               <FaBookOpen className="w-6 h-6" />
             </div>
-            <h1 className="text-xl font-bold">ReadHub</h1>
+            <h1 className="text-xl font-bold">Novelty</h1>
           </div>
 
           <div className="flex-1 max-w-md mx-4">
